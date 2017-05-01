@@ -26,7 +26,7 @@ img {margin-bottom: -7px}
 <header class="w3-container w3-padding-32 w3-center w3-opacity w3-margin-bottom">
   <div class="w3-clear"></div>
   <h1><b>10ร้านห้ามพลาดในหาดใหญ่</b></h1>
-  <p><b>Travel Pictures by Thitima,Fatin and Kritsada.</b></p>
+  <p><b>Food Pictures by Thitima,Fatin and Kritsada.</b></p>
   <p class="w3-padding-16"><button class="w3-button w3-black" onclick="myFunction()">Toggle Grid Padding</button></p>
 </header>
 
