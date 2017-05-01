@@ -1,5 +1,5 @@
 <html>
-<title>W3.CSS Template</title>
+<title>10ร้านห้ามพลาดในหาดใหญ่</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="w3.css">
@@ -17,10 +17,6 @@ img {margin-bottom: -7px}
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-closenav w3-jumbo w3-display-topright" style="padding:6px 24px">
     <i class="fa fa-remove"></i>
   </a>
-  <a href="javascript:void(0)" class="w3-text-grey w3-hover-black">About</a>
-  <a href="javascript:void(0)" class="w3-text-grey w3-hover-black">Photos</a>
-  <a href="javascript:void(0)" class="w3-text-grey w3-hover-black">Shop</a>
-  <a href="javascript:void(0)" class="w3-text-grey w3-hover-black">Contact</a>
 </nav>
 
 <!-- !PAGE CONTENT! -->
@@ -28,10 +24,9 @@ img {margin-bottom: -7px}
 
 <!-- Header -->
 <header class="w3-container w3-padding-32 w3-center w3-opacity w3-margin-bottom">
-  <span class="w3-opennav w3-xxlarge w3-right w3-margin-right" onclick="w3_open()"><i class="fa fa-bars"></i></span> 
   <div class="w3-clear"></div>
-  <h1><b>PHOTOLIO</b></h1>
-  <p><b>Travel Pictures by Thitima.</b></p>
+  <h1><b>10ร้านห้ามพลาดในหาดใหญ่</b></h1>
+  <p><b>Travel Pictures by Thitima,Fatin and Kritsada.</b></p>
   <p class="w3-padding-16"><button class="w3-button w3-black" onclick="myFunction()">Toggle Grid Padding</button></p>
 </header>
 
@@ -67,11 +62,7 @@ img {margin-bottom: -7px}
 <footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin-top:128px"> 
   <i class="fa fa-facebook-official w3-hover-text-indigo"></i>
    <i class="fa fa-instagram w3-hover-text-purple"></i>
-  <i class="fa fa-snapchat w3-hover-text-yellow"></i>
-  <i class="fa fa-pinterest-p w3-hover-text-red"></i>
-  <i class="fa fa-twitter w3-hover-text-light-blue"></i>
-  <i class="fa fa-linkedin w3-hover-text-indigo"></i>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  
 </footer>
  
 <script>
