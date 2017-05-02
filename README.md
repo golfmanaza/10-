@@ -33,7 +33,7 @@ img {margin-bottom: -7px}
 <!-- Photo Grid -->
 <div class="w3-row" id="myGrid" style="margin-bottom:128px">
   <div class="w3-third">
-    <img src="kiriko.jpg" style="width:100%">
+   <a href="https://golfmanaza.github.io/Kiriko-Japannese-Food/"><img src="kiriko.jpg" style="width:100%"></a>        
     <img src="korkai.jpg" style="width:100%">
     <img src="suanloungjerm.jpg" style="width:100%">
     <img src="three.jpg" style="width:100%">
