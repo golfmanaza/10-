@@ -44,7 +44,7 @@ img {margin-bottom: -7px}
        <a href="https://golfmanaza.github.io/somtamKrarok/"><img src="krarok.jpg" style="width:100%"></a>  
        <a href="https://golfmanaza.github.io/MR.STEAK/"><img src="mrsteak.jpg" style="width:100%"></a>
        <a href="https://golfmanaza.github.io/Thongwong/"><img src="thongwong.jpg" style="width:100%"></a>
-       <img src="three.jpg" style="width:100%">
+       <a href="https://golfmanaza.github.io/piakracha/"><img src="piakracha.jpg" style="width:100%"></a>
 
   </div>
 
