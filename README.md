@@ -62,10 +62,9 @@ img {margin-bottom: -7px}
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin-top:128px"> 
-  <i class="fa fa-facebook-official w3-hover-text-indigo"></i>
-   <a href="https://www.facebook.com/timargolf"><i class="fa fa-instagram w3-hover-text-purple">Thitima</i></a>
-   <a href="https://www.facebook.com/tinz.sleepslam"><i class="fa fa-instagram w3-hover-text-green">Fatin</i></a>
-   <a href="https://www.facebook.com/kitsada.sangobkit"><i class="fa fa-instagram w3-hover-text-blue">Kritsada</i></a>
+   <a href="https://www.facebook.com/timargolf"><i class="fa fa-facebook w3-hover-text-purple">Thitima</i></a>
+   <a href="https://www.facebook.com/tinz.sleepslam"><i class="fa fa-facebook w3-hover-text-green">Fatin</i></a>
+   <a href="https://www.facebook.com/kitsada.sangobkit"><i class="fa fa-facebook w3-hover-text-blue">Kritsada</i></a>
 </footer>
  
 <script>
