@@ -36,7 +36,7 @@ img {margin-bottom: -7px}
    <a href="https://golfmanaza.github.io/Kiriko-Japannese-Food/"><img src="kiriko.jpg" style="width:100%"></a>        
     <a href="https://golfmanaza.github.io/KorKai/"><img src="korkai.jpg" style="width:100%"></a>    
     <a href="https://golfmanaza.github.io/Suan-loung-jerm/"><img src="suanloungjerm.jpg" style="width:100%"></a>   
-    <img src="three.jpg" style="width:100%">
+    <img src="potato2.jpg" style="width:100%">
     
   </div>
 
@@ -44,14 +44,16 @@ img {margin-bottom: -7px}
        <a href="https://golfmanaza.github.io/somtamKrarok/"><img src="krarok.jpg" style="width:100%"></a>  
        <a href="https://golfmanaza.github.io/MR.STEAK/"><img src="mrsteak.jpg" style="width:100%"></a>
        <a href="https://golfmanaza.github.io/Thongwong/"><img src="thongwong.jpg" style="width:100%"></a>
-          
+       <img src="three.jpg" style="width:100%">
+
   </div>
 
   <div class="w3-third">
          <a href="https://golfmanaza.github.io/Steak-Naichang/"><img src="naichang.jpg" style="width:100%"></a>  
          <a href="https://golfmanaza.github.io/Seoul-Korean-BBQ-Restaurant/"><img src="soulbbq11.jpg" style="width:100%"></a>  
          <a href="https://golfmanaza.github.io/for-seen/"><img src="forseen.jpg" style="width:100%"></a>  
-    
+        <img src="potato.jpg" style="width:100%">
+
   </div>
 </div>
 
