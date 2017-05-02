@@ -48,9 +48,9 @@ img {margin-bottom: -7px}
   </div>
 
   <div class="w3-third">
-    <img src="naichang.jpg" style="width:100%">
-    <img src="soulbbq11.jpg" style="width:100%">
-    <img src="forseen.jpg" style="width:100%">
+         <a href="https://golfmanaza.github.io/Steak-Naichang/"><img src="naichang.jpg" style="width:100%"></a>  
+         <a href="https://golfmanaza.github.io/Seoul-Korean-BBQ-Restaurant/"><img src="soulbbq11.jpg" style="width:100%"></a>  
+         <a href="https://golfmanaza.github.io/for-seen/"><img src="forseen.jpg" style="width:100%"></a>  
     
   </div>
 </div>
