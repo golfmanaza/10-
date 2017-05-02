@@ -34,17 +34,17 @@ img {margin-bottom: -7px}
 <div class="w3-row" id="myGrid" style="margin-bottom:128px">
   <div class="w3-third">
    <a href="https://golfmanaza.github.io/Kiriko-Japannese-Food/"><img src="kiriko.jpg" style="width:100%"></a>        
-    <img src="korkai.jpg" style="width:100%">
-    <img src="suanloungjerm.jpg" style="width:100%">
+    <a href="https://golfmanaza.github.io/KorKai/"><img src="korkai.jpg" style="width:100%"></a>    
+    <a href="https://golfmanaza.github.io/Suan-loung-jerm/"><img src="suanloungjerm.jpg" style="width:100%"></a>   
     <img src="three.jpg" style="width:100%">
     
   </div>
 
   <div class="w3-third">
-    <img src="krarok.jpg" style="width:100%">
-    <img src="mrsteak.jpg" style="width:100%">
-    <img src="thongwong.jpg" style="width:100%">
-   
+       <a href="https://golfmanaza.github.io/somtamKrarok/"><img src="krarok.jpg" style="width:100%"></a>  
+       <a href="https://golfmanaza.github.io/MR.STEAK/"><img src="mrsteak.jpg" style="width:100%"></a>
+       <a href="https://golfmanaza.github.io/Thongwong/"><img src="thongwong.jpg" style="width:100%"></a>
+          
   </div>
 
   <div class="w3-third">
